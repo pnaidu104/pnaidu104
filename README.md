@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Parikshit](https://www.linkedin.com/in/parikshit-naidu/), pursuing Software Devolopement and DevOps Engineering [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;
+I am [Parikshit](https://www.linkedin.com/in/parikshit-naidu/), from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp, pursuing Software Devolopement and DevOps Engineering;
 
 - All of the projects are available at [https://github.com/pnaidu104](https://github.com/pnaidu104)
 
