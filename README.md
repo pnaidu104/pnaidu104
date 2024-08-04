@@ -12,5 +12,5 @@ I am [Parikshit](https://www.linkedin.com/in/parikshit-naidu/), from [🇮🇳 ]
 
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/parikshit-naidu/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/throne.zytkow.object/) ✨
- - Shoot Me an [Email](pnaidu104@gmail.com) 💌
+ - Follow me on [Instagram](https://www.instagram.com/thorne.zytkow.object/) ✨
+ - Shoot Me an [Email](mailto:pnaidu104@gmail.com) 💌
